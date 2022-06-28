@@ -1,6 +1,10 @@
+<div>
+
 [![Haashim's Stats](https://github-readme-stats.vercel.app/api?username=inctus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  
+</div>
 
 <!--
 **Inctus/Inctus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
