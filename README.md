@@ -1,6 +1,6 @@
 <div align=center> 
 
-[![Haashim's Stats](https://github-readme-stats.vercel.app/api?username=inctus&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Haashim's Stats](https://github-readme-stats.vercel.app/api?username=haashim-ali&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   
 </div>
 
